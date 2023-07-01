@@ -5,6 +5,15 @@ npm intsall mysql        |prettier code formatter
 npm install ejs          |path intelliscence
 status;                  |live sever
 vsc                      |auto rename tag
+node --version
+npm install express --save
+or
+npm i 
+npm i -g nodemon
+nodemon     index.js
+npm start 
+npm install create-react-app
+npm start
 ----------------------------------------------------------------------------------------
 folder :db
 file:dbconnect.js
